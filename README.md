@@ -5,7 +5,7 @@
 ## 📝 Overview
 
 This project is an HTTP web server that implements the [RFC 2616 HTTP/1.1 Standard](https://datatracker.ietf.org/doc/html/rfc2616).<br>
-It was developed in collaboration with [Jared Goedhart](https://github.com/jaredgoedhart) as part of our curriculum.
+It was developed in collaboration with Luca Goddijn as part of our curriculum.
 
 View the project's requirements and guidelines here: [subject](./extra/en.subject.pdf)
 
